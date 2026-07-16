@@ -1,7 +1,7 @@
 # AntarcticPyVistaVisualization
 Workflow for mapping regions of the Antarctic continent based on bed and surface topography, with a focus on bed elevation. This project uses GeoTIFF Digital ELevation Maps (DEMs) to plot regions of Antarctica in 3D space to help visualize the topographic difference between bed and surface in an interactive and visually cohesive manner.
 
-This project also seeks to plot and compare the bed elevation data created by stochastic realizations of glacial bed topography as part of an ongoing project to improve textural representations of sub-glacial topography. More information can be found at https://github.com/GatorGlaciology.
+This project also seeks to plot and compare the bed elevation data created by stochastic realizations of glacial bed topography as part of an ongoing project to improve textural representations of sub-glacial topography. More information can be found at https://github.com/GatorGlaciology/DEMOGORGN-Antarctica.
 
 # Data Access
 The data used in this project can be accessed via GEBCO's interactive grid (https://download.gebco.net/). To download the dataset used in this project, change the data in the top left corner of the screen to 'GEBCO 2025 South Polar', select subset options, change the top and right bounds to 4400000 and the left and bottom bounds to -4400000. Issues may arise if bounds are different. Click 'layers and formats', select both 'Bathymetry' and 'Bathymetry (sub ice)'. Only 'GeoTIFF' is required for the data format. Click add to basket and then make sure the basket icon in the top right is green, click it, then submit. Go to the download section to the right of the basket and the data is available there after some time. Below is a screenshot of the process for clarity.
