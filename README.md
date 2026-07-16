@@ -24,3 +24,6 @@ To activate, open the command line and using the 'cd' command, navigate to the f
 
 
 This will launch Jupyter Notebook in the browser. When reopenning the environment after is has been created, only use the second and third lines of code.
+
+# Authorship and Liscense
+This project was authored by Milo Rasz. Liscense information is in the corresponding LISCENSE file
