@@ -84,4 +84,4 @@ Haran, T., M. Klinger, J. Bohlander, M. Fahnestock, T. Painter, and T. Scambos. 
 Active Archive Center. https://doi.org/10.5067/RNF17BP824UM
 
 # Authorship and Liscense
-This project was authored by Milo Rasz. Liscense information is in the corresponding LISCENSE file. No generative AI was used in this project.
+This project was authored by Milo Rasz. Liscense information is in the corresponding `LISCENSE` file. No generative AI was used in this project.
