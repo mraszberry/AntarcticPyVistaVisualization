@@ -54,6 +54,7 @@ All other cells can be run without modification. If issues arise, check and chan
 
 - In cells 5 or 6, replace *xminpolar*, *xmaxpolar*, *yminpolar*, and *ymaxpolar* with the new coordinates.
   The GEBCO interactive grid can be used to visualize coordinate region and is a helpful reference for where a region is on the continental scale.
+  Please keep in mind that smaller regions will typically graph better and faster.
 
 - In cell 18, change the coefficients for *xminpolar*, *yminpolar*, and the *cmax* exponent to change the position of the camera in the following plot.
   They are already based on region-specific data, so only fine-tuning should be required, though exceptions exist.
